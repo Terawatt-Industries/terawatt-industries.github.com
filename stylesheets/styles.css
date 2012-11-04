@@ -13,7 +13,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 body header {
-	width : 350px;
+	width : 380px;
 }
 
 body header h1 {
@@ -21,7 +21,7 @@ body header h1 {
 	background-repeat:no-repeat;
 	background-position: 0 -11px;
 	padding: 60px 0 7px 0;
-	height : 65px;
+	height : 60px;
 }
 
 p, ul, ol, table, pre, dl {
