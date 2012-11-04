@@ -16,8 +16,8 @@ body header h1 {
 	background: transparent url("http://terawatt-industries.github.com/mendelmax15-lm8uu/img/terawatt/tw_logo_fc_150x91.png");
 	background-repeat:no-repeat;
 	background-position: 0 -11px;
-	padding: 60px 0 7px 0;
-	height : 60px;
+	padding: 60px 0 0 0;
+	height : 45px;
 }
 
 p, ul, ol, table, pre, dl {
